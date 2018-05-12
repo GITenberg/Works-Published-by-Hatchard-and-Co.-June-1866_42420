@@ -1,0 +1,30 @@
+_repo: Works-Published-by-Hatchard-and-Co.-June-1866_42420
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: J. Hatchard and Son
+    aliases:
+    - John Hatchard and Son
+    - Hatchard and Son
+    - J. Hatchard & Son
+    - Hatchard & Son
+    gutenberg_agent_id: '41681'
+    url: http://www.gutenberg.org/2009/agents/41681
+description: ''
+gutenberg_issued: '2013-03-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42420'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'J. Hatchard and Son -- Catalogs'
+- !lcsh 'Publishers'' catalogs -- England -- London'
+- !lcc 'Z'
+title: Works Published by Hatchard and Co. June 1866
+url: http://www.gutenberg.org/ebooks/42420
